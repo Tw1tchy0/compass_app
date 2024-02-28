@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: any
   flutter_map: any
   latlong2: any
+  flutter_compass: any
 
 dev_dependencies:
   flutter_test:
